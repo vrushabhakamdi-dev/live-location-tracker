@@ -1,30 +1,50 @@
 # Live Location Tracker
-- **Live Location Tracker** It allows you to track live GPS coordinates in real-time and provides visual representations on a map, making it a great tool for showcasing in seminars, educational environments, and ethical hacking demonstrations.
 
+**Live Location Tracker** is a web application that allows users to visualize GPS coordinates in real-time on an interactive map. It can be used for educational projects, seminars, demonstrations, and authorized security testing.
 
 ## Prerequisites
-To get this application up and running, ensure you have the following:
-- **Node.js** (v16 or higher)
+
+Before running the application, make sure you have:
+
+* **Node.js** (v16 or higher)
+* **npm**
 
 ## Installation
-1. **Clone the repository**:
+
+### 1. Download the repository
+
 ```bash
-git clone https://github.com/madhanmaaz/live-location-tracker.git
-cd live-location-tracker
+git clone https://github.com/vrushabhakamdi-dev/live-location-tracker-.git
+cd live-location-tracker-
 ```
 
-2. **Install dependencies**:
+### 2. Install dependencies
+
 ```bash
 npm install
 ```
 
-3. **Run the application:**
+### 3. Run the application
+
 ```bash
 npm start
 ```
 
-4. Login credentials
-```js
-username: admin
-password: admin
+The application should now be running locally.
+
+## Login Credentials
+
+```text
+Username: admin
+Password: admin
 ```
+
+## Usage
+
+Use this application only with appropriate authorization and consent when handling real location data.
+
+## Author
+
+**Vrushabh Kamdi**
+
+GitHub: https://github.com/vrushabhakamdi-dev
